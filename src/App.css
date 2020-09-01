@@ -1,0 +1,9 @@
+.heading{
+  color: coral;
+  margin-top: 25px; 
+  text-transform: uppercase;
+}
+td{
+  width:350px;
+  padding: 10px;
+}
